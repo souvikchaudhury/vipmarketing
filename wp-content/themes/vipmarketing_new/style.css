@@ -564,7 +564,8 @@ a:hover {
 		}
 		
 .comoditiesProduct{
-		width:236px;
+		/*width:236px;*/
+		width:220px;
 		margin-right:14px;
 		margin-bottom:14px;
 		float:left;
